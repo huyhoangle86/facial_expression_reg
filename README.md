@@ -1,5 +1,5 @@
-# Facial-Expression-Recognition 
-![code](surprise.png)
+# Facial Expression Recognition 
+![code](surprise.PNG)
 
 ## Built With
 * Python
