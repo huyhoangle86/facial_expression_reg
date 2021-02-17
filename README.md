@@ -21,3 +21,20 @@
 
 * I used variety of data augmentation that is implemented in Keras such as : flip, zoom, rotation to increase model performance
 
+## Algorithms
+*  Neutral Network approach with 7 Convolution Layer and 1 Fully Connected layer
+
+![code](model.png)
+
+## Result
+
+![code](Confusion_Matrix.png)
+
+### Model Loss
+
+![code](model_loss.png)
+
+### Model Accuracy
+
+![code](model_accuracy.png)
+
